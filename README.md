@@ -1,4 +1,4 @@
-![User Stats](https://github-readme-stats.vercel.app/api?username=imagejan&show_icons=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imagejan&langs_count=3)
+![User Stats](https://github-readme-stats.vercel.app/api?username=imagejan&show_icons=true&count_private=true&hide=stars) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imagejan&langs_count=2)
 
 <!--
 **imagejan/imagejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
