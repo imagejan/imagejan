@@ -1,4 +1,9 @@
-![User Stats](https://github-readme-stats.vercel.app/api?username=imagejan&show_icons=true&count_private=true&hide=stars) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imagejan&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imagejan&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Jan's Github Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imagejan&layout=compact" alt="Top Languages" />
+</a>
 
 <!--
 **imagejan/imagejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
